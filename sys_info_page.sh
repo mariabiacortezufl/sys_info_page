@@ -21,10 +21,10 @@ report_home_space () {
 cat << _EOF_
 <HTML>
 	<HEAD>
-		<TITLE>TITLE</TITLE>
+		<TITLE>$TITLE</TITLE>
 	</HEAD>
 	<BODY>"
-		<H1>TITLE</H1>
+		<H1>$TITLE</H1>
 		<P>$TIMESTAMP</P>
 	</BODY>
 </HTML>"
