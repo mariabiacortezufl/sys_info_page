@@ -6,6 +6,18 @@ TITLE="System Information Report For $HOSTNAME"
 CURRENT_TIME="$(date +"%x %r %z")"
 TIMESTAMP="Generated $CURRENT_TIME, by $USER"
 
+report_uptime () {
+	return
+}
+
+report_disk_space () {
+	return
+}
+
+report_home_space () {
+	return
+}
+
 cat << _EOF_
 <HTML>
 	<HEAD>
