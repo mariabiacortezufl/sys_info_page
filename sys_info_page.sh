@@ -4,10 +4,10 @@
 
 echo  "<HTML>
 	<HEAD>
-		<TITLE>Page Title</TITLE>
+		<TITLE>System Information Report</TITLE>
 	</HEAD>
 	<BODY>"
-		Page body.
+		<H1>System Information Reports</H1>
 	</BODY>
 </HTML>"
 
